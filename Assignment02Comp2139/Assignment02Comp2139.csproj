@@ -29,6 +29,7 @@
 
     <ItemGroup>
       <_ContentIncludedByDefault Remove="Migrations\appsettings.Development.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\js\js\site.js" />
     </ItemGroup>
 
 </Project>
